@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(32, 57, 108);
+}
+#header{
+    background-color: red;
+    color:lightgray;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.container-left{
+    margin: 10px;
+    margin-right: -5px;
+    background-color: rgb(58, 139, 157);
+    color:aqua;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.container-left a{
+    color: aqua;
+    margin: 10px;
+}
+.container-right{
+    margin: 10px;
+    background-color:black;
+    color:lightgray;
+    border-radius: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.container-right h2, .container-right p{
+    margin: 10px;
+}
+.container-right a{
+    color: aqua;
+}
+#footer{
+    background-color: rgb(104, 104, 104);
+    color:lightgray;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+#footer a{
+    color: aqua;
+
+}
