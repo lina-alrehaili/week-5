@@ -9,11 +9,12 @@ body{
     padding: 10px;
 }
 .container-left{
+    border: 10px solid;
+    border-image: linear-gradient(45deg,purple,rgb(43, 255, 0)) 10;
     margin: 10px;
     margin-right: -5px;
     background-color: rgb(58, 139, 157);
     color:aqua;
-    border-radius: 10px;
     padding-bottom: 10px;
     padding-top: 10px;
 }
@@ -22,10 +23,11 @@ body{
     margin: 10px;
 }
 .container-right{
+    border: 10px solid;
+    border-image: linear-gradient(45deg,yellow,rgb(255, 0, 0)) 10;
     margin: 10px;
     background-color:black;
     color:lightgray;
-    border-radius: 10px;
     padding-bottom: 10px;
     padding-top: 10px;
 }
